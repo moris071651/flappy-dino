@@ -1,6 +1,6 @@
 # Flappy Dino
 ## What Is Flappy Dino?
-It is a game just like Flappy bird but instead of a bird, it is a Dino ([pterodactyl](https://en.wikipedia.org/wiki/Pterodactylus) to be exact).
+It is a game just like Flappy bird, but instead of a bird, it is a Dino ([pterodactyl](https://en.wikipedia.org/wiki/Pterodactylus) to be exact).
 
 ## Is It Fun?
 Yes, it is.
@@ -13,5 +13,5 @@ Yes, it is.
 | Jump         | SPACE |
 | Pause        | p     |
 
-## How To Download It And Start Playing It?
+## How To Download It And Become Addicted To It?
 Copy the repo locally and start the [dino](dino.py) file.

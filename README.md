@@ -13,5 +13,5 @@ Yes, it is.
 | Jump         | SPACE |
 | Pause        | p     |
 
-## How To Download It And Become Addicted To It?
+## How To Download And Become Addicted?
 Copy the repo locally and start the [dino](dino.py) file.
